@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "checkin": "2026-06-16",
+    "checkout": "2026-06-18",
+    "name": "Connor",
+    "lang": "en"
+  },
+  {
+    "checkin": "2026-07-17",
+    "checkout": "2026-07-28",
+    "name": "Jassim",
+    "lang": "ar"
+  },
+  {
+    "checkin": "2026-09-18",
+    "checkout": "2026-10-10",
+    "name": "Julia",
+    "lang": "en"
+  }
+]
