@@ -16,5 +16,11 @@
     "checkout": "2026-11-08",
     "name": "Laura",
     "lang": "en"
+  },
+  {
+    "checkin": "2026-12-24",
+    "checkout": "2026-12-27",
+    "name": "Alexia",
+    "lang": "fr"
   }
 ]
