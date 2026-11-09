@@ -1,0 +1,547 @@
+{
+ "_lisez_moi": "Adresses de la page Infos de la box TV (Free My TV, InfoActivity). Modifiable sans recompiler : la box relit ce fichier une fois par jour. hours : plages HH:MM par jour (liste vide = fermé), plage après minuit autorisée (\"19:00\",\"02:00\"). closed_forever ou hidden = n'apparaît plus. Ordre = ordre d'affichage (les 3 premières ouvertes s'affichent).",
+ "updated": "2026-11-09",
+ "places": [
+  {
+   "name": "Double Deux",
+   "type_fr": "Brunch · Café",
+   "type_en": "Brunch · Café",
+   "address": "22 rue de la Folie-Méricourt, 75011 Paris",
+   "walk_min": 1,
+   "closed_forever": false,
+   "hours": {
+    "mon": [
+     [
+      "08:30",
+      "16:00"
+     ]
+    ],
+    "tue": [
+     [
+      "08:30",
+      "16:00"
+     ]
+    ],
+    "wed": [
+     [
+      "08:30",
+      "16:00"
+     ]
+    ],
+    "thu": [
+     [
+      "08:30",
+      "16:00"
+     ]
+    ],
+    "fri": [
+     [
+      "08:30",
+      "16:00"
+     ],
+     [
+      "18:00",
+      "00:00"
+     ]
+    ],
+    "sat": [
+     [
+      "08:30",
+      "16:00"
+     ],
+     [
+      "18:00",
+      "00:00"
+     ]
+    ],
+    "sun": [
+     [
+      "08:30",
+      "16:00"
+     ]
+    ]
+   },
+   "source": "https://www.22doubledeux.com/"
+  },
+  {
+   "name": "Onze à Table",
+   "type_fr": "Bistrot moderne",
+   "type_en": "Modern bistro",
+   "address": "10 rue de la Folie-Méricourt, 75011 Paris",
+   "walk_min": 2,
+   "closed_forever": false,
+   "hours": {
+    "mon": [],
+    "tue": [
+     [
+      "11:30",
+      "15:00"
+     ],
+     [
+      "18:00",
+      "23:00"
+     ]
+    ],
+    "wed": [
+     [
+      "11:30",
+      "15:00"
+     ],
+     [
+      "18:00",
+      "23:00"
+     ]
+    ],
+    "thu": [
+     [
+      "11:30",
+      "15:00"
+     ],
+     [
+      "18:00",
+      "23:00"
+     ]
+    ],
+    "fri": [
+     [
+      "11:30",
+      "15:00"
+     ],
+     [
+      "18:00",
+      "23:00"
+     ]
+    ],
+    "sat": [
+     [
+      "11:30",
+      "15:00"
+     ],
+     [
+      "18:00",
+      "23:00"
+     ]
+    ],
+    "sun": [
+     [
+      "11:00",
+      "16:00"
+     ]
+    ]
+   },
+   "source": "https://onzeatable.paris/"
+  },
+  {
+   "name": "Copains",
+   "type_fr": "Boulangerie sans gluten",
+   "type_en": "Gluten-free bakery",
+   "address": "40 rue Oberkampf, 75011 Paris",
+   "walk_min": 4,
+   "closed_forever": false,
+   "hours": {
+    "mon": [
+     [
+      "08:00",
+      "20:00"
+     ]
+    ],
+    "tue": [
+     [
+      "08:00",
+      "20:00"
+     ]
+    ],
+    "wed": [
+     [
+      "08:00",
+      "20:00"
+     ]
+    ],
+    "thu": [
+     [
+      "08:00",
+      "20:00"
+     ]
+    ],
+    "fri": [
+     [
+      "08:00",
+      "20:00"
+     ]
+    ],
+    "sat": [
+     [
+      "08:00",
+      "20:00"
+     ]
+    ],
+    "sun": [
+     [
+      "08:00",
+      "20:00"
+     ]
+    ]
+   },
+   "source": "https://www.pagesjaunes.fr/pros/64348489 (+ OSM node 3688329007, même horaire)"
+  },
+  {
+   "name": "Chambelland",
+   "type_fr": "Boulangerie sans gluten",
+   "type_en": "Gluten-free bakery",
+   "address": "14 rue Ternaux, 75011 Paris",
+   "walk_min": 4,
+   "closed_forever": false,
+   "hours": {
+    "mon": [
+     [
+      "08:30",
+      "19:30"
+     ]
+    ],
+    "tue": [
+     [
+      "08:30",
+      "19:30"
+     ]
+    ],
+    "wed": [
+     [
+      "08:30",
+      "19:30"
+     ]
+    ],
+    "thu": [
+     [
+      "08:30",
+      "19:30"
+     ]
+    ],
+    "fri": [
+     [
+      "08:30",
+      "19:30"
+     ]
+    ],
+    "sat": [
+     [
+      "08:30",
+      "19:30"
+     ]
+    ],
+    "sun": [
+     [
+      "09:00",
+      "18:00"
+     ]
+    ]
+   },
+   "source": "https://www.chambelland.com/les-boutiques/"
+  },
+  {
+   "name": "Maison Landemaine",
+   "type_fr": "Boulangerie",
+   "type_en": "Bakery",
+   "address": "41 rue Oberkampf, 75011 Paris",
+   "walk_min": 5,
+   "closed_forever": false,
+   "hours": {
+    "mon": [
+     [
+      "07:00",
+      "20:30"
+     ]
+    ],
+    "tue": [
+     [
+      "07:00",
+      "20:30"
+     ]
+    ],
+    "wed": [],
+    "thu": [
+     [
+      "07:00",
+      "20:30"
+     ]
+    ],
+    "fri": [
+     [
+      "07:00",
+      "20:30"
+     ]
+    ],
+    "sat": [
+     [
+      "07:00",
+      "20:30"
+     ]
+    ],
+    "sun": [
+     [
+      "07:00",
+      "20:30"
+     ]
+    ]
+   },
+   "source": "https://www.openstreetmap.org/node/2007769277 (opening_hours, vérifié 10/09/2026)"
+  },
+  {
+   "name": "Kapé",
+   "type_fr": "Café philippin (ube)",
+   "type_en": "Filipino café (ube)",
+   "address": "17 rue de Malte, 75011 Paris (angle rue Oberkampf)",
+   "walk_min": 7,
+   "closed_forever": false,
+   "hours": {
+    "mon": [],
+    "tue": [],
+    "wed": [
+     [
+      "10:00",
+      "17:30"
+     ]
+    ],
+    "thu": [
+     [
+      "10:00",
+      "17:30"
+     ]
+    ],
+    "fri": [
+     [
+      "10:00",
+      "17:30"
+     ]
+    ],
+    "sat": [
+     [
+      "10:00",
+      "18:00"
+     ]
+    ],
+    "sun": [
+     [
+      "10:00",
+      "18:00"
+     ]
+    ]
+   },
+   "source": "https://kapeparis.com/"
+  },
+  {
+   "name": "Sabai Monkey",
+   "type_fr": "Restaurant thaï",
+   "type_en": "Thai restaurant",
+   "address": "1 rue de Bretagne, 75003 Paris",
+   "walk_min": 12,
+   "closed_forever": false,
+   "hours": {
+    "mon": [
+     [
+      "11:00",
+      "15:00"
+     ],
+     [
+      "18:00",
+      "23:00"
+     ]
+    ],
+    "tue": [
+     [
+      "11:00",
+      "15:00"
+     ],
+     [
+      "18:00",
+      "23:00"
+     ]
+    ],
+    "wed": [
+     [
+      "11:00",
+      "15:00"
+     ],
+     [
+      "18:00",
+      "23:00"
+     ]
+    ],
+    "thu": [
+     [
+      "11:00",
+      "15:00"
+     ],
+     [
+      "18:00",
+      "23:00"
+     ]
+    ],
+    "fri": [
+     [
+      "11:00",
+      "15:00"
+     ],
+     [
+      "18:00",
+      "23:00"
+     ]
+    ],
+    "sat": [
+     [
+      "11:00",
+      "16:00"
+     ],
+     [
+      "18:00",
+      "23:00"
+     ]
+    ],
+    "sun": [
+     [
+      "11:00",
+      "16:00"
+     ],
+     [
+      "18:00",
+      "23:00"
+     ]
+    ]
+   },
+   "source": "https://sabai-monkey-paris.fr/fr"
+  },
+  {
+   "name": "Chez Janou",
+   "type_fr": "Restaurant provençal",
+   "type_en": "Provençal restaurant",
+   "address": "2 rue Roger Verlomme, 75003 Paris",
+   "walk_min": 14,
+   "closed_forever": false,
+   "hours": {
+    "mon": [
+     [
+      "12:00",
+      "15:00"
+     ],
+     [
+      "19:00",
+      "23:30"
+     ]
+    ],
+    "tue": [
+     [
+      "12:00",
+      "15:00"
+     ],
+     [
+      "19:00",
+      "23:30"
+     ]
+    ],
+    "wed": [
+     [
+      "12:00",
+      "15:00"
+     ],
+     [
+      "19:00",
+      "23:30"
+     ]
+    ],
+    "thu": [
+     [
+      "12:00",
+      "15:00"
+     ],
+     [
+      "19:00",
+      "23:30"
+     ]
+    ],
+    "fri": [
+     [
+      "12:00",
+      "15:00"
+     ],
+     [
+      "19:00",
+      "23:30"
+     ]
+    ],
+    "sat": [
+     [
+      "12:00",
+      "15:00"
+     ],
+     [
+      "19:00",
+      "23:30"
+     ]
+    ],
+    "sun": [
+     [
+      "12:00",
+      "15:00"
+     ],
+     [
+      "19:00",
+      "23:30"
+     ]
+    ]
+   },
+   "source": "https://www.chezjanou.com/ (« ouvert tous les jours, midi et soir », sans heures) ; heures : OSM node 3213130981 + Gault&Millau"
+  },
+  {
+   "name": "Café Charlot",
+   "type_fr": "Café",
+   "type_en": "Café",
+   "address": "38 rue de Bretagne, 75003 Paris",
+   "walk_min": 14,
+   "closed_forever": false,
+   "hours": {
+    "mon": [
+     [
+      "07:00",
+      "02:00"
+     ]
+    ],
+    "tue": [
+     [
+      "07:00",
+      "02:00"
+     ]
+    ],
+    "wed": [
+     [
+      "07:00",
+      "02:00"
+     ]
+    ],
+    "thu": [
+     [
+      "07:00",
+      "02:00"
+     ]
+    ],
+    "fri": [
+     [
+      "07:00",
+      "02:00"
+     ]
+    ],
+    "sat": [
+     [
+      "07:00",
+      "02:00"
+     ]
+    ],
+    "sun": [
+     [
+      "07:00",
+      "02:00"
+     ]
+    ]
+   },
+   "source": "https://cafecharlotparis.com/"
+  }
+ ]
+}
