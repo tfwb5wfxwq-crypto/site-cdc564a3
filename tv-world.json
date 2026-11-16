@@ -1,0 +1,619 @@
+{
+ "countries": {
+  "US": {
+   "flag": "🇺🇸",
+   "en": "USA",
+   "fr": "États-Unis"
+  },
+  "INT": {
+   "flag": "🌍",
+   "en": "International",
+   "fr": "International"
+  },
+  "GB": {
+   "flag": "🇬🇧",
+   "en": "United Kingdom",
+   "fr": "Royaume-Uni"
+  },
+  "DE": {
+   "flag": "🇩🇪",
+   "en": "Germany",
+   "fr": "Allemagne"
+  },
+  "ES": {
+   "flag": "🇪🇸",
+   "en": "Spain",
+   "fr": "Espagne"
+  },
+  "IT": {
+   "flag": "🇮🇹",
+   "en": "Italy",
+   "fr": "Italie"
+  },
+  "PT": {
+   "flag": "🇵🇹",
+   "en": "Portugal",
+   "fr": "Portugal"
+  },
+  "KR": {
+   "flag": "🇰🇷",
+   "en": "South Korea",
+   "fr": "Corée du Sud"
+  },
+  "CN": {
+   "flag": "🇨🇳",
+   "en": "China",
+   "fr": "Chine"
+  },
+  "IN": {
+   "flag": "🇮🇳",
+   "en": "India",
+   "fr": "Inde"
+  },
+  "BR": {
+   "flag": "🇧🇷",
+   "en": "Brazil",
+   "fr": "Brésil"
+  },
+  "MX": {
+   "flag": "🇲🇽",
+   "en": "Mexico",
+   "fr": "Mexique"
+  },
+  "CA": {
+   "flag": "🇨🇦",
+   "en": "Canada",
+   "fr": "Canada"
+  },
+  "AU": {
+   "flag": "🇦🇺",
+   "en": "Australia",
+   "fr": "Australie"
+  },
+  "QA": {
+   "flag": "🇶🇦",
+   "en": "Qatar",
+   "fr": "Qatar"
+  },
+  "AE": {
+   "flag": "🇦🇪",
+   "en": "United Arab Emirates",
+   "fr": "Émirats arabes unis"
+  },
+  "TR": {
+   "flag": "🇹🇷",
+   "en": "Türkiye",
+   "fr": "Turquie"
+  },
+  "IL": {
+   "flag": "🇮🇱",
+   "en": "Israel",
+   "fr": "Israël"
+  },
+  "PL": {
+   "flag": "🇵🇱",
+   "en": "Poland",
+   "fr": "Pologne"
+  },
+  "FR": {
+   "flag": "🇫🇷",
+   "en": "France",
+   "fr": "France"
+  },
+  "HK": {
+   "flag": "🇭🇰",
+   "en": "Hong Kong",
+   "fr": "Hong Kong"
+  }
+ },
+ "channels": [
+  {
+   "name": "NBC News NOW",
+   "country": "US",
+   "url": "https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001",
+   "logo": "tv/logos/nbc-news-now.png",
+   "bg": "#2C2C2E",
+   "lang": "en"
+  },
+  {
+   "name": "CBS News 24/7",
+   "country": "US",
+   "url": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
+   "logo": "tv/logos/cbs-news-24-7.png",
+   "bg": "#2C2C2E",
+   "lang": "en"
+  },
+  {
+   "name": "LiveNOW from FOX",
+   "country": "US",
+   "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
+   "logo": "tv/logos/livenow-from-fox.png",
+   "bg": "#2C2C2E",
+   "lang": "en"
+  },
+  {
+   "name": "SNL Vault",
+   "country": "US",
+   "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99993017/hls/master.m3u8?ads.xumo_channelId=99993017",
+   "logo": "tv/logos/snl-vault.png",
+   "bg": "#2C2C2E",
+   "lang": "en"
+  },
+  {
+   "name": "NBC Comedy Vault",
+   "country": "US",
+   "url": "https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8",
+   "logo": "tv/logos/nbc-comedy-vault.png",
+   "bg": "#2C2C2E",
+   "lang": "en"
+  },
+  {
+   "name": "Hell's Kitchen",
+   "country": "US",
+   "url": "https://aegis-cloudfront-1.tubi.video/c8364f36-c60b-4a39-8d86-0b92db4611c0/index.m3u8",
+   "logo": "tv/logos/hell-s-kitchen.png",
+   "bg": "#2C2C2E",
+   "lang": "en"
+  },
+  {
+   "name": "NHL Network",
+   "country": "US",
+   "url": "https://nhl-firetv.amagi.tv/playlist.m3u8",
+   "logo": "tv/logos/nhl-network.png",
+   "bg": "#2C2C2E",
+   "lang": "en"
+  },
+  {
+   "name": "Red Bull TV",
+   "country": "US",
+   "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
+   "logo": "tv/logos/red-bull-tv.png",
+   "bg": "#2C2C2E",
+   "lang": "en"
+  },
+  {
+   "name": "PBS Kids",
+   "country": "US",
+   "url": "https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8",
+   "logo": "tv/logos/pbs-kids.png",
+   "bg": "#2C2C2E",
+   "lang": "en"
+  },
+  {
+   "name": "Scripps News",
+   "url": "https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8",
+   "logo": "tv/logos/scripps-news.png",
+   "bg": "#2C2C2E",
+   "country": "US"
+  },
+  {
+   "name": "Fox Weather",
+   "url": "https://247wlive.foxweather.com/stream/index.m3u8",
+   "logo": "tv/logos/fox-weather.png",
+   "bg": "#2C2C2E",
+   "country": "US"
+  },
+  {
+   "name": "Dateline 24/7",
+   "url": "https://d1si3n1st4nkgb.cloudfront.net/10502/88896029/hls/master.m3u8?ads.xumo_channelId=88896029",
+   "logo": "tv/logos/dateline-24-7.png",
+   "bg": "#2C2C2E",
+   "country": "US"
+  },
+  {
+   "name": "Comet",
+   "url": "https://fast-channels.sinclairstoryline.com/COMET/index.m3u8",
+   "logo": "tv/logos/comet.png",
+   "bg": "#2C2C2E",
+   "country": "US"
+  },
+  {
+   "name": "Newsmax",
+   "country": "US",
+   "url": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8",
+   "logo": "tv/logos/newsmax.png",
+   "bg": "#2C2C2E",
+   "lang": "en"
+  },
+  {
+   "name": "Bloomberg Originals",
+   "country": "US",
+   "url": "https://bloomberg.com/media-manifest/streams/qt.m3u8",
+   "logo": "tv/logos/bloomberg-tv.png",
+   "bg": "#2C2C2E",
+   "lang": "en"
+  },
+  {
+   "name": "American Crime Channel",
+   "country": "US",
+   "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883104",
+   "logo": "tv/logos/american-crime-channel.png",
+   "bg": "#2C2C2E",
+   "lang": "en"
+  },
+  {
+   "name": "BBC News",
+   "country": "INT",
+   "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.m3u8",
+   "logo": "tv/logos/bbc-news.png",
+   "bg": "#2C2C2E",
+   "lang": "en"
+  },
+  {
+   "name": "Bloomberg TV",
+   "country": "INT",
+   "url": "https://www.bloomberg.com/media-manifest/streams/eu.m3u8",
+   "logo": "tv/logos/bloomberg-tv.png",
+   "bg": "#2C2C2E",
+   "lang": "en"
+  },
+  {
+   "name": "France 24 English",
+   "country": "INT",
+   "url": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8",
+   "logo": "tv/logos/france-24-english.png",
+   "bg": "#2C2C2E",
+   "lang": "en"
+  },
+  {
+   "name": "DW English",
+   "country": "INT",
+   "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
+   "logo": "tv/logos/dw-english.png",
+   "bg": "#2C2C2E",
+   "lang": "en"
+  },
+  {
+   "name": "Euronews English",
+   "country": "INT",
+   "url": "https://cdn-euronews.akamaized.net/live/eds/euronews-en/25080/index.m3u8",
+   "logo": "tv/logos/euronews-english.png",
+   "bg": "#2C2C2E",
+   "lang": "en"
+  },
+  {
+   "name": "Al Jazeera English",
+   "country": "INT",
+   "url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
+   "logo": "tv/logos/al-jazeera-english.png",
+   "bg": "#2C2C2E",
+   "lang": "en"
+  },
+  {
+   "name": "TRT World",
+   "country": "INT",
+   "url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
+   "logo": "tv/logos/trt-world.png",
+   "bg": "#2C2C2E",
+   "lang": "en"
+  },
+  {
+   "name": "CGTN",
+   "country": "INT",
+   "url": "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8",
+   "logo": "tv/logos/cgtn.png",
+   "bg": "#2C2C2E",
+   "lang": "en"
+  },
+  {
+   "name": "CNA",
+   "country": "INT",
+   "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
+   "logo": "tv/logos/cna.png",
+   "bg": "#2C2C2E",
+   "lang": "en"
+  },
+  {
+   "name": "NHK World-Japan",
+   "country": "INT",
+   "url": "https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8",
+   "logo": "tv/logos/nhk-world-japan.png",
+   "bg": "#2C2C2E",
+   "lang": "en"
+  },
+  {
+   "name": "RACER International",
+   "country": "INT",
+   "url": "https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8",
+   "logo": "",
+   "bg": "#2C2C2E",
+   "lang": "en"
+  },
+  {
+   "name": "France 24 Français",
+   "country": "FR",
+   "url": "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8",
+   "logo": "tv/logos/france-24-english.png",
+   "bg": "#2C2C2E",
+   "lang": "fr"
+  },
+  {
+   "name": "TV5Monde Info",
+   "country": "FR",
+   "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8",
+   "logo": "tv/logos/tv5monde-info.png",
+   "bg": "#2C2C2E",
+   "lang": "fr"
+  },
+  {
+   "name": "Arte",
+   "country": "FR",
+   "url": "https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8",
+   "logo": "tv/logos/arte.png",
+   "bg": "#2C2C2E",
+   "lang": "fr"
+  },
+  {
+   "name": "TalkTV",
+   "country": "GB",
+   "url": "https://488f4ce4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfVGFsa19ITFM/playlist.m3u8",
+   "logo": "tv/logos/talktv.png",
+   "bg": "#2C2C2E",
+   "lang": "en"
+  },
+  {
+   "name": "The Graham Norton Show",
+   "country": "GB",
+   "url": "https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8",
+   "logo": "tv/logos/the-graham-norton-show.png",
+   "bg": "#2C2C2E",
+   "lang": "en"
+  },
+  {
+   "name": "Doctor Who Classic",
+   "country": "GB",
+   "url": "https://bbc-classicdrwho-1-us.roku.wurl.tv/playlist.m3u8",
+   "logo": "tv/logos/doctor-who-classic.png",
+   "bg": "#2C2C2E",
+   "lang": "en"
+  },
+  {
+   "name": "GB News",
+   "country": "GB",
+   "url": "https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8",
+   "logo": "tv/logos/gb-news.png",
+   "bg": "#2C2C2E",
+   "lang": "en"
+  },
+  {
+   "name": "Now 90s00s",
+   "country": "GB",
+   "url": "https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8",
+   "logo": "",
+   "bg": "#2C2C2E",
+   "lang": "en"
+  },
+  {
+   "name": "Das Erste",
+   "country": "DE",
+   "url": "https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8",
+   "logo": "tv/logos/das-erste.png",
+   "bg": "#2C2C2E",
+   "lang": "de"
+  },
+  {
+   "name": "tagesschau24",
+   "country": "DE",
+   "url": "https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8",
+   "logo": "tv/logos/tagesschau24.png",
+   "bg": "#2C2C2E",
+   "lang": "de"
+  },
+  {
+   "name": "Arte (Deutsch)",
+   "country": "DE",
+   "url": "https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8",
+   "logo": "tv/logos/arte.png",
+   "bg": "#2C2C2E",
+   "lang": "de"
+  },
+  {
+   "name": "La 1",
+   "country": "ES",
+   "url": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8",
+   "logo": "tv/logos/la-1.png",
+   "bg": "#2C2C2E",
+   "lang": "es"
+  },
+  {
+   "name": "Canal 24 Horas",
+   "country": "ES",
+   "url": "https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8",
+   "logo": "tv/logos/canal-24-horas.png",
+   "bg": "#2C2C2E",
+   "lang": "es"
+  },
+  {
+   "name": "TVE Internacional",
+   "country": "ES",
+   "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_1080.m3u8",
+   "logo": "tv/logos/tve-internacional.png",
+   "bg": "#2C2C2E",
+   "lang": "es"
+  },
+  {
+   "name": "DW Español",
+   "country": "ES",
+   "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
+   "logo": "tv/logos/dw-english.png",
+   "bg": "#2C2C2E",
+   "lang": "es"
+  },
+  {
+   "name": "TV2000",
+   "country": "IT",
+   "url": "https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8",
+   "logo": "tv/logos/tv2000.png",
+   "bg": "#2C2C2E",
+   "lang": "it"
+  },
+  {
+   "name": "Sportitalia Plus",
+   "country": "IT",
+   "url": "https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8",
+   "logo": "tv/logos/sportitalia-plus.png",
+   "bg": "#2C2C2E",
+   "lang": "it"
+  },
+  {
+   "name": "Nove",
+   "country": "IT",
+   "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8",
+   "logo": "",
+   "bg": "#2C2C2E",
+   "lang": "it"
+  },
+  {
+   "name": "SIC",
+   "country": "PT",
+   "url": "https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8",
+   "logo": "tv/logos/sic.png",
+   "bg": "#2C2C2E",
+   "lang": "pt"
+  },
+  {
+   "name": "Arirang TV",
+   "country": "KR",
+   "url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+   "logo": "",
+   "bg": "#2C2C2E",
+   "lang": "en"
+  },
+  {
+   "name": "CGTN Documentary",
+   "country": "CN",
+   "url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8",
+   "logo": "tv/logos/cgtn-documentary.png",
+   "bg": "#2C2C2E",
+   "lang": "en"
+  },
+  {
+   "name": "Aaj Tak",
+   "country": "IN",
+   "url": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8",
+   "logo": "tv/logos/aaj-tak.png",
+   "bg": "#2C2C2E",
+   "lang": "hi"
+  },
+  {
+   "name": "CNBC-TV18",
+   "country": "IN",
+   "url": "https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8",
+   "logo": "tv/logos/cnbc-tv18.png",
+   "bg": "#2C2C2E",
+   "lang": "en"
+  },
+  {
+   "name": "Record News",
+   "country": "BR",
+   "url": "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8",
+   "logo": "tv/logos/record-news.png",
+   "bg": "#2C2C2E",
+   "lang": "pt"
+  },
+  {
+   "name": "TV Cultura",
+   "country": "BR",
+   "url": "https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8",
+   "logo": "tv/logos/tv-cultura.png",
+   "bg": "#2C2C2E",
+   "lang": "pt"
+  },
+  {
+   "name": "Canal Once",
+   "country": "MX",
+   "url": "https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8",
+   "logo": "tv/logos/canal-once.png",
+   "bg": "#2C2C2E",
+   "lang": "es"
+  },
+  {
+   "name": "Imagen Televisión",
+   "country": "MX",
+   "url": "https://igd-it-runtime.otteravision.com/igd/it/it.m3u8",
+   "logo": "tv/logos/imagen-televisi-n.png",
+   "bg": "#2C2C2E",
+   "lang": "es"
+  },
+  {
+   "name": "Quiero TV",
+   "country": "MX",
+   "url": "https://stream.ontvmx.com/ontv/ghxTYEQmKkB2UJyVuW/playlist.m3u8",
+   "logo": "tv/logos/quiero-tv.png",
+   "bg": "#2C2C2E",
+   "lang": "es"
+  },
+  {
+   "name": "Global News",
+   "country": "CA",
+   "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8",
+   "logo": "tv/logos/global-news.png",
+   "bg": "#2C2C2E",
+   "lang": "en"
+  },
+  {
+   "name": "ABC News Australia",
+   "country": "AU",
+   "url": "https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8",
+   "logo": "tv/logos/abc-news-australia.png",
+   "bg": "#2C2C2E",
+   "lang": "en"
+  },
+  {
+   "name": "Al Jazeera Arabic",
+   "country": "QA",
+   "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8",
+   "logo": "tv/logos/al-jazeera-arabic.png",
+   "bg": "#2C2C2E",
+   "lang": "ar"
+  },
+  {
+   "name": "Al Arabiya",
+   "country": "AE",
+   "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
+   "logo": "tv/logos/al-arabiya.png",
+   "bg": "#2C2C2E",
+   "lang": "ar"
+  },
+  {
+   "name": "MBC 1",
+   "country": "AE",
+   "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8",
+   "logo": "tv/logos/mbc-1.png",
+   "bg": "#2C2C2E",
+   "lang": "ar"
+  },
+  {
+   "name": "TRT 1",
+   "country": "TR",
+   "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
+   "logo": "tv/logos/trt-1.png",
+   "bg": "#2C2C2E",
+   "lang": "tr"
+  },
+  {
+   "name": "TRT Haber",
+   "country": "TR",
+   "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
+   "logo": "tv/logos/trt-haber.png",
+   "bg": "#2C2C2E",
+   "lang": "tr"
+  },
+  {
+   "name": "TV Puls",
+   "country": "PL",
+   "url": "https://edge01.cdn.emitel.pl/bpk-tv/Puls_HD/hbbtv-hls/index.m3u8",
+   "logo": "tv/logos/tv-puls.png",
+   "bg": "#2C2C2E",
+   "lang": "pl"
+  },
+  {
+   "name": "NewsWorld",
+   "country": "HK",
+   "url": "https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8",
+   "logo": "",
+   "bg": "#2C2C2E",
+   "lang": "en"
+  }
+ ]
+}
