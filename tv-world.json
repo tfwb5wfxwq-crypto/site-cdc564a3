@@ -104,6 +104,11 @@
    "flag": "🇭🇰",
    "en": "Hong Kong",
    "fr": "Hong Kong"
+  },
+  "AT": {
+   "flag": "🇦🇹",
+   "en": "Austria",
+   "fr": "Autriche"
   }
  },
  "channels": [
@@ -148,14 +153,6 @@
    "lang": "en"
   },
   {
-   "name": "Hell's Kitchen",
-   "country": "US",
-   "url": "https://aegis-cloudfront-1.tubi.video/c8364f36-c60b-4a39-8d86-0b92db4611c0/index.m3u8",
-   "logo": "tv/logos/hell-s-kitchen.png",
-   "bg": "#2C2C2E",
-   "lang": "en"
-  },
-  {
    "name": "NHL Network",
    "country": "US",
    "url": "https://nhl-firetv.amagi.tv/playlist.m3u8",
@@ -178,13 +175,6 @@
    "logo": "tv/logos/pbs-kids.png",
    "bg": "#2C2C2E",
    "lang": "en"
-  },
-  {
-   "name": "Scripps News",
-   "url": "https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8",
-   "logo": "tv/logos/scripps-news.png",
-   "bg": "#2C2C2E",
-   "country": "US"
   },
   {
    "name": "Fox Weather",
@@ -228,6 +218,14 @@
    "country": "US",
    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883104",
    "logo": "tv/logos/american-crime-channel.png",
+   "bg": "#2C2C2E",
+   "lang": "en"
+  },
+  {
+   "name": "Court TV",
+   "country": "US",
+   "url": "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8",
+   "logo": "https://folie.paris/tv/logos/court-tv.png",
    "bg": "#2C2C2E",
    "lang": "en"
   },
@@ -384,6 +382,14 @@
    "lang": "en"
   },
   {
+   "name": "Hobby Maker",
+   "country": "GB",
+   "url": "https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8",
+   "logo": "https://folie.paris/tv/logos/hobby-maker.png",
+   "bg": "#2C2C2E",
+   "lang": "en"
+  },
+  {
    "name": "Das Erste",
    "country": "DE",
    "url": "https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8",
@@ -460,6 +466,14 @@
    "country": "IT",
    "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8",
    "logo": "",
+   "bg": "#2C2C2E",
+   "lang": "it"
+  },
+  {
+   "name": "DMAX",
+   "country": "IT",
+   "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8",
+   "logo": "https://folie.paris/tv/logos/dmax.png",
    "bg": "#2C2C2E",
    "lang": "it"
   },
@@ -614,6 +628,14 @@
    "logo": "",
    "bg": "#2C2C2E",
    "lang": "en"
+  },
+  {
+   "name": "W24",
+   "country": "AT",
+   "url": "https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8",
+   "logo": "https://folie.paris/tv/logos/w24.png",
+   "bg": "#2C2C2E",
+   "lang": "de"
   }
  ]
 }
